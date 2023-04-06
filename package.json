@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Gulshan Kumar",
+  "author": "Sajal Suman",
   "license": "ISC",
   "dependencies": {
     "bad-words": "^3.0.4",
@@ -17,5 +17,15 @@
     "mongoose": "^6.4.0",
     "process": "^0.11.10",
     "socket.io": "^4.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sajal17466/chatttt.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Sajal17466/chatttt/issues"
+  },
+  "homepage": "https://github.com/Sajal17466/chatttt#readme"
 }
